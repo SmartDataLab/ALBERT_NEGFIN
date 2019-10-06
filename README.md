@@ -37,4 +37,8 @@ for entity in entities:
     output_list.append(output)
 ```
 ## Linux_test
-
+## 可以修改的地方
+1. 可以修改数据处理函数
+2. bert的dense
+3. 可以集成学习
+4. 可以套albert
