@@ -42,3 +42,10 @@ for entity in entities:
 2. bert的dense
 3. 可以集成学习
 4. 可以套albert
+## Experiment
+
+No | Model | Description | Score
+ : | : | : | :
+1 | Bert | predict for each entity | 0.929
+2 | Bert + BIG + NIKE | using heuristic method to tackle second task | 0.935
+
