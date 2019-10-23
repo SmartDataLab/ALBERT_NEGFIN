@@ -44,12 +44,12 @@ for entity in entities:
 4. 可以套albert
 ## Experiment
 
-No | Model | Description | Score
- : | : | : | :
-1 | Bert | predict for each entity | 0.929
-2 | Bert + substring + NIKE | using heuristic method to tackle second task | 0.935
-3 | Mxnet_bert + substring + NIKE | predict for each text | 0.947
-4 | Test scoring rule | reverse task 1 result | 0.006
+| No | Model | Description | Score |
+| : | : | : | : |
+| 1 | Bert | predict for each entity | 0.929 |
+| 2 | Bert + substring + NIKE | using heuristic method to tackle second task | 0.935 |
+| 3 | Mxnet_bert + substring + NIKE | predict for each text | 0.947 |
+| 4 | Test scoring rule | reverse task 1 result | 0.006 |
 
 ## conception for improving
 - long_text_sentence
