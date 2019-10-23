@@ -45,7 +45,7 @@ for entity in entities:
 ## Experiment
 
 | No | Model | Description | Score |
-| : | : | : | : |
+| :------- | :---------： | :---------： | :---------： |
 | 1 | Bert | predict for each entity | 0.929 |
 | 2 | Bert + substring + NIKE | using heuristic method to tackle second task | 0.935 |
 | 3 | Mxnet_bert + substring + NIKE | predict for each text | 0.947 |
